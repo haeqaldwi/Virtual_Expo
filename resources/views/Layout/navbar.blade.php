@@ -5,7 +5,7 @@
                 <img src="{{asset('assets/images/itk-rounded.png')}}" alt="logo-itk" style="height: 3.8rem;">
             </a>
         </span>
-        <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-7" href="/">V.E ITK</a></span>
+        <span class="navbar-caption-wrap"><a class="navbar-caption text-primary display-7" href="/">Open House ITK 2022</a></span>
     </div>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <div class="hamburger">

@@ -11,11 +11,10 @@ Semoga kedepannya dikembangkan lebih menarik lagi
   <meta name="generator" content="Mobirise v5.4.1, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/itk-rounded.png" type="image/x-icon">
-  <meta name="description" content="Sekilas Tentang Jurusan Sains, Teknologi
-Pangan, dan Kemaritiman">
+  <meta name="description" content="Pemaparan Video Webminar Institut Teknologi Kalimantan">
 
 
-  <title>V.E ITK | JSTPK</title>
+  <title>Open House ITK | WEBMINAR</title>
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
   <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
@@ -32,86 +31,33 @@ Pangan, dan Kemaritiman">
 </head>
 <body>
 
-  <section data-bs-version="5.1" class="menu cid-sIXiTh7Qsv" once="menu" id="menu1-1l">
+  <section data-bs-version="5.1" class="menu cid-sIWPkGh5mq" once="menu" id="menu1-1c">
 
     <nav class="navbar navbar-dropdown navbar-fixed-top collapsed">
-        <nav class="navbar navbar-dropdown navbar-fixed-top collapsed">
-            @include('Layout.navbar')
-        </nav>
+        @include('Layout.navbar')
     </nav>
 
 </section>
 
-<section data-bs-version="5.1" class="gallery2 cid-sJ43sM72xa" id="gallery2-2b">
+<section data-bs-version="5.1" class="video2 cid-sIWPZJtG43" id="video2-1f">
 
-
+    <div class="mbr-overlay" style="opacity: 0.6; background-color: rgb(0, 0, 0);"></div>
     <div class="container">
         <div class="mbr-section-head">
-            <h4 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2"><strong>Jurusan Sains, Teknologi
-</strong><div><strong>Pangan, dan Kemaritiman</strong></div></h4>
+            <h4 class="mbr-section-title mbr-fonts-style mb-0 display-2">
+                <strong>WEBMINAR</strong></h4>
 
         </div>
-        <div class="row mt-4">
-            <div class="item features-image сol-12 col-md-6 col-lg-4">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/fisika.png" alt="logo-fisika" class="shadow">
-                    </div>
-                    <div class="item-content">
+        <div class="row justify-content-center mt-4">
+            <div class="col-12 col-md-4 video-block">
+                <div class="video-wrapper"><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/hakMW0kvSL4?rel=0&amp;amp;showinfo=0&amp;autoplay=1&amp;loop=1&amp;playlist=hakMW0kvSL4" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
 
-
-
-                    </div>
-                    <div class="mbr-section-btn item-footer mt-2"><a href="/jstpk/fisika" class="btn btn-primary item-btn display-7">Fisika</a></div>
-                </div>
-            </div>
-            <div class="item features-image сol-12 col-md-6 col-lg-4">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/teknik-perkapalan.png" alt="logo-perkapalan" class="shadow">
-                    </div>
-                    <div class="item-content">
-
-
-
-                    </div>
-                    <div class="mbr-section-btn item-footer mt-2"><a href="/jstpk/perkapalan" class="btn item-btn btn-primary display-7">Teknik Perkapalan</a></div>
-                </div>
-            </div>
-            <div class="item features-image сol-12 col-md-6 col-lg-4">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/teknik-kelautan.png" alt="logo-kelautan" class="shadow">
-                    </div>
-                    <div class="item-content">
-
-
-
-                    </div>
-                    <div class="mbr-section-btn item-footer mt-2"><a href="/jstpk/kelautan" class="btn btn-primary item-btn display-7">Teknik Kelautan</a></div>
-                </div>
-            </div>
-            <div class="item features-image сol-12 col-md-6 col-lg-4">
-                <div class="item-wrapper">
-                    <div class="item-img">
-                        <img src="assets/images/teknologi-pangan.png" alt="logo-pangan" class="shadow">
-                    </div>
-                    <div class="item-content">
-
-
-
-                    </div>
-                    <div class="mbr-section-btn item-footer mt-2"><a href="/jstpk/teknologipangan" class="btn btn-primary item-btn display-7">Teknologi Pangan</a></div>
-                </div>
             </div>
         </div>
     </div>
 </section>
 
-<section data-bs-version="5.1" class="footer3 cid-sIXiTnnO4e" once="footers" id="footer3-1n">
-
-
-
+<section data-bs-version="5.1" class="footer3 cid-sIWPkJTzVW" once="footers" id="footer3-1e">
 
 
     <div class="container">
@@ -172,13 +118,13 @@ Pangan, dan Kemaritiman">
 <section style="background-color: #003454; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif; color:#aaa; font-size:12px; padding: 0; align-items: center; display: flex;">
 	<a href="https://mobirise.site/z" style="flex: 1 1; height: 3rem; padding-left: 1rem;"></a>
 </section>
-<script src="{{ asset('assets/bootstrap/js/bootstrap.bundle.min.js') }}" defer></script>
-<script src="{{ asset('assets/smoothscroll/smooth-scroll.js') }}"defer></script>
-<script src="{{ asset('assets/ytplayer/index.js') }}" defer></script>
-<script src="{{ asset('assets/playervimeo/vimeo_player.js') }}" defer></script>
-<script src="{{ asset('assets/dropdown/js/navbar-dropdown.js') }}" defer></script>
-<script src="{{ asset('assets/theme/js/script.js') }}" defer></script>
-<script src="{{ asset('assets/formoid/formoid.min.js') }}" defer></script>
+<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/smoothscroll/smooth-scroll.js"></script>
+<script src="assets/ytplayer/index.js"></script>
+<script src="assets/playervimeo/vimeo_player.js"></script>
+<script src="assets/dropdown/js/navbar-dropdown.js"></script>
+<script src="assets/theme/js/script.js"></script>
+<script src="assets/formoid/formoid.min.js"></script>
 
 
 	<div id="scrollToTop" class="scrollToTop mbr-arrow-up">

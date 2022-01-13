@@ -13,8 +13,8 @@ class berandaController extends Controller
 {
     public function index(link $link){
         return view('main', [
-            // 'link'=> $link,
-            'url'=> link::all()
+            // 'url'=> $link,
+            // // 'url'=> link::all()
         ]);
     }
 

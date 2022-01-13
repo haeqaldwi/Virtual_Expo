@@ -141,6 +141,14 @@ Route::get('/jtsp/arsitektur', function () {
     return view('jtsp.arsitektur');
 });
 
+Route::get('/mainhall', function () {
+    return view('mainhall');
+});
+
+Route::get('/webminar', function () {
+    return view('webminar');
+});
+
 Route::get('/jadwal', [JadwalController::class, 'index']);
 
 // Route::get('/dashboard', function () {

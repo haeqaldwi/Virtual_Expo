@@ -17,7 +17,8 @@ class JadwalController extends Controller
     {
         //
         return view('Jadwal', [
-            'link' => $aktuaria,
+            // 'link' => $aktuaria,
+            // 'link' => aktuaria::latest()->get(),
             'event' => Jadwal::all()
         ]);
     }

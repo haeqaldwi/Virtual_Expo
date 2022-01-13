@@ -90,7 +90,7 @@ Semoga kedepannya dikembangkan lebih menarik lagi
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>(Live Now)</strong></h1>
 
                 <p class="mbr-text mbr-fonts-style display-5">Virtual Expo<br>Institut Teknologi Kalimantan</p>
-                <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="webminar.html">Visit Webminar</a></div>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="/webminar">Visit Webminar</a></div>
             </div>
         </div>
     </div>
@@ -109,7 +109,7 @@ Semoga kedepannya dikembangkan lebih menarik lagi
 
                 <p class="mbr-text mbr-fonts-style display-5">Virtual Expo
 <br>Institut Teknologi Kalimantan</p>
-                <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="mainhall.html">Visit Main hall</a></div>
+                <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="/mainhall">Visit Main hall</a></div>
             </div>
         </div>
     </div>

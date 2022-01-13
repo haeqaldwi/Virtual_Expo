@@ -52,8 +52,8 @@ Semoga kedepannya dikembangkan lebih menarik lagi
         <div class="row justify-content-center">
             <div class="col-12 col-lg-8">
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1"><strong>JADWAL</strong></h1>
-                <form action="{{ $link->link }}" target="_blank">
-                    <a class='btn badge bg-danger' href='{{ $link->link }}'>Enter room</a>
+                {{-- <form action="{{ $link->link }}" target="_blank"> --}}
+                    <a class='btn badge bg-danger' href=''>Enter room</a>
                 </form>
                 <table class="table table-striped table-primary table-borderless">
                     <thead>
